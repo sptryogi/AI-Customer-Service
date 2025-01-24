@@ -1,0 +1,85 @@
+Troubleshooting Jaringan :
+Pengertian hingga Cara Mengatasi
+Pernahkah Anda mengalami masalah pada jaringan, baik jaringan pribadi di rumah maupun jaringan perkantoran? Ketika suatu jaringan mengalami
+masalah atau terdapat issue yang muncul pada jaringan tersebut, maka salah satu solusi untuk mengatasinya adalah dengan melakukan troubleshoot
+jaringan. Apa itu troubleshooting jaringan dan bagaimana cara melakukannya untuk memperbaiki masalah pada jaringan?
+Pengertian Troubleshooting Jaringan
+Troubleshooting jaringan adalah prosedur untuk mencari tahu atau mengidentifikasi masalah (issue) yang berkaitan dengan jaringan melalui proses
+yang teliti dan berulang, kemudian berlanjut hingga ke penyelesaian masalah tersebut menggunakan metode tertentu. Troubleshooting merupakan
+cara yang efektif untuk menyelesaikan masalah yang terjadi pada jaringan karena dimungkinkan untuk mendokumentasikan proses yang dilakukan.
+Selain itu, troubleshoot juga merupakan cara logis yang dapat dilakukan untuk memperbaiki performa jaringan secara keseluruhan.
+Troubleshoot jaringan juga penting untuk dilakukan karena dapat membantu manajer IT untuk memahami secara mendalam terkait issue yang terjadi,
+mengurangi downtime, serta meningkatkan Quality of Service (QoS) bagi pengguna jaringan. Proses troubleshooting jaringan akan lebih mudah
+dilakukan dengan sistem monitoring jaringan yang bagus, efektif, dan dapat diandalkan. Selain itu, sistem monitoring jaringan yang bagus juga dapat
+membantu dalam pengaturan konfigurasi jaringan.
+Cara Mengatasi Troubleshooting Jaringan
+Terdapat langkah-langkah yang bisa dilakukan untuk mengatasi troubleshooting jaringan. Langkah-langkah tersebut yaitu:
+1. Identifikasi Masalah pada Jaringan
+Langkah pertama untuk melakukan troubleshoot jaringan adalah mengidentifikasi masalah yang ada atau yang terjadi pada jaringan. Cara
+mengidentifikasi masalah pada jaringan adalah dengan melakukan hal-hal berikut ini:
+Kumpulkan informasi mengenai kondisi terkini atau current state dari jaringan dengan menggunakan troubleshoot tools yang Anda miliki.
+Jika memungkinkan, lakukan duplikasi masalah tersebut pada hardware atau software test piece. Hal ini akan membantu Anda untuk
+memahami di mana letak permasalahan yang terjadi.
+Tanyakan pada pengguna jaringan, apa saja masalah, error, maupun kesulitan yang pernah mereka temui selama ini. Misalnya, apakah mereka
+mengalami complete loss pada koneksi jaringan, atau mereka hanya mengalami jaringan lemot dan berjalan lambat? Kemudian, apakah
+terdapat masalah yang menyebar luas pada jaringan, atau masalah tersebut hanya dialami oleh beberapa pengguna tertentu saja?
+Cari tahu apakah terdapat hal yang berubah pada jaringan sebelum issue tersebut terjadi. Misalnya, apakah terdapat perangkat hardware yang
+baru saja ditambahkan? Atau apakah pada jaringan tersebut terdapat user baru yang sebelumnya tidak ada?
+Definisikan masalah-masalah yang terjadi secara jelas satu per satu, agar solusi yang disediakan nantinya lebih precise dan tidak terganggu oleh
+masalah lainnya.
+2. Bangun Teori yang Sesuai
+Setelah Anda mengumpulkan seluruh informasi yang berkaitan dengan issue tersebut, maka selanjutnya Anda bisa mulai membangun teori mengenai
+penyebab utama terjadinya issue tersebut. Selama membangun teori, Anda bisa menanyakan berbagai hal yang mungkin berkaitan dengan issue
+sebagai informasi tambahan untuk membangun teori tersebut.
+3. Lakukan Uji Teori
+Setelah teori terbentuk, maka selanjutnya Anda bisa mulai melakukan tes atau uji teori untuk membuktikan apakah teori tersebut benar-benar works
+atau tidak. Contohnya, teori yang Anda miliki adalah berkaitan dengan kerusakan router, di mana router harus diganti agar jaringan dapat kembali
+normal. Maka lakukan uji teori tersebut dengan mengganti router lama dengan router baru, kemudian lihat apakah teori tersebut benar atau salah.
+Apabila ternyata teori tersebut salah, bukan berarti Anda gagal. Sebaliknya, Anda justru bisa melaju ke tahap berikutnya, yaitu membangun teori baru
+dan menguji kembali teori baru tersebut. Dengan mengetahui teori apa yang salah, Anda dapat lebih berhati-hati dalam membangun teori selanjutnya.
+1/24/25, 9:47 AM Troubleshooting Jaringan: Pengertian hingga Cara Mengatasi
+https://www.acerid.com/berita-bisnis/pengertian-troubleshoot-jaringan-hingga-cara-mengatasi 1/34. Lakukan Dokumentasi
+Setelah mendapatkan teori dan solusi yang works untuk mengatasi issue pada jaringan, sebaiknya lakukan dokumentasi atas masalah yang terjadi
+beserta teori dan solusi untuk menyelesaikan masalah tersebut. Dokumentasi penting untuk dilakukan agar ketika masalah yang sama kembali terjadi
+di masa depan, Anda telah memiliki cara untuk menyelesaikannya dengan cepat.
+Penyebab UmumTroubleshoot Jaringan
+Terdapat beberapa permasalahan jaringan yang umum ditemui, di antaranya yaitu:
+Adanya lonjakan yang muncul secara tiba-tiba dalam penggunaan bandwidth jaringan
+Terjadinya pelanggaran keamanan pada sistem jaringan
+Adanya perangkat keras yang rusak
+Terjadi perubahan konfigurasi dalam aplikasi
+Masalah-masalah tersebut umumnya dapat disebabkan oleh beberapa faktor berikut ini:
+1. Penggunaan bandwidth yang tinggi
+Alasan pertama penyebab terjadinya masalah pada jaringan adalah penggunaan bandwidth yang tinggi. Bandwidth tinggi dapat membantu transfer
+data antar device menjadi lebih cepat, seperti saat men-download file, membagikan folder, dan sebagainya. Namun, hal ini dapat memungkinkan
+terjadinya kelambatan pada jaringan.
+2. Hardware yang tidak berfungsi dengan normal
+Faktor berikutnya yang menyebabkan jaringan bermasalah adalah hardware yang tidak berfungsi dengan normal akibat adanya kerusakan. Misalnya,
+seperti kerusakan pada perangkat router, switch, kabel, dan lain sebagainya. Seluruh perangkat hardware yang terlibat dalam jaringan sebaiknya dicek
+kondisinya secara rutin dan berkala untuk menghindari adanya kerusakan yang semakin parah.
+3. Penggunaan CPU yang berlebihan
+Ketika terdapat network packets yang diterima maupun dikirim dalam jumlah besar pada suatu jaringan, maka akan meningkatkan penggunaan CPU
+bahkan hingga terjadi overload. Apabila penggunaan CPU seperti ini dilakukan secara terus-menerus dan berlebihan, maka dapat memicu terjadinya
+issue pada jaringan.
+4. Konektivitas fisik yang kurang berkualitas
+Faktor terakhir yang sering menyebabkan terjadinya issue pada jaringan adalah konektivitas fisik yang kurang berkualitas. Hal ini disebabkan oleh
+penggunaan kabel yang tidak sesuai atau kabel yang digunakan kurang berkualitas. Apabila terjadi kerusakan pada kabel, sebaiknya kabel tersebut
+segera diganti dengan yang baru karena dapat memicu terjadinya data loss dan dapat mengurangi jumlah data flowing pada jaringan.
+Agar terhindar dari berbagai masalah atau issue, dibutuhkan sistem jaringan yang terdiri atas perangkat-perangkat yang mumpuni dan berkualitas
+tinggi. Tidak hanya perangkat seperti router dan switch, namun juga laptop yang terlibat dalam jaringan. Salah satu rekomendasi laptop berkualitas
+tinggi yang cocok untuk sistem jaringan, utamanya jaringan kelas industri yaitu Travelmate P6.
+Travelmate P6 merupakan laptop profesional untuk bisnis yang mengombinasikan antara performa terbaik dengan portabilitas, sehingga mudah
+untuk dipindahkan atau dibawa kemana saja. Laptop ini juga dibekali baterai yang mampu memasok daya hingga 20 jam dengan kemampuan fast
+charging yang terisi hingga 80% dalam satu jam.
+1/24/25, 9:47 AM Troubleshooting Jaringan: Pengertian hingga Cara Mengatasi
+https://www.acerid.com/berita-bisnis/pengertian-troubleshoot-jaringan-hingga-cara-mengatasi 2/3Bagikan Artikel
+Masukkan Komentar
+Nama Email
+Artikel Lainnya
+Meskipun tipis dan ringan dengan bobot hanya 1,0 kg, laptop ini mampu melaju kencang dengan dukungan prosesor Intel Core i7 Generasi ke-11
+yang super cepat. Travelmate P6 juga memiliki sistem yang dilengkapi berbagai fitur keamanan, membuatnya cocok digunakan dalam jaringan
+industri, bisnis, maupun perusahaan yang mengedepankan keamanan data.
+Laptop ini juga semakin lengkap dengan adanya sertifikasi military grade MIL-STD 810H, membuktikan bahwa laptop ini tangguh dan dapat
+digunakan dalam segala macam kondisi lingkungan, bahkan yang berat sekalipun. Keyboard dan touchpad Travelmate P6 juga tahan cairan sehingga
+dapat melindungi komponen di dalamnya. Bagi Anda yang membutuhkan laptop ringan namun tangguh dengan performa yang cocok untuk jaringan
+kelas industri, Anda bisa memilih Acer Travelmate P6
